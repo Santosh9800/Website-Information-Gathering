@@ -6,7 +6,7 @@ This tool gathers publicly accessible data such as WHOIS registration info, DNS 
 
 By automating and organizing these tasks, the tool helps security professionals map the attack surface, assess weak points, and determine the potential exposure of a website — all in a streamlined, fast, and user-friendly terminal interface.
 
-> 🔰 **Created by:** SANTOSH CHHETRI
+> 🔰 **Created by:** SANTOSH CHHETRI <br>
 > 🎬 **YouTube Channel:** Master in White Devil
 
 ---
