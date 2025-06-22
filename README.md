@@ -5,7 +5,7 @@ Website Information Gathering & Vulnerability Scanner is a Python-based reconnai
 This tool gathers publicly accessible data such as WHOIS registration info, DNS records, IP address, server response headers, web technologies in use (like CMS, frameworks, and server software), and active subdomains. Additionally, it leverages scanning tools like Nmap and wafw00f to detect open ports, potential vulnerabilities (CVE-based), and the presence of Web Application Firewalls (WAFs).
 
 By automating and organizing these tasks, the tool helps security professionals map the attack surface, assess weak points, and determine the potential exposure of a website — all in a streamlined, fast, and user-friendly terminal interface.
-
+<br>
 > 🔰 **Created by:** SANTOSH CHHETRI <br>
 > 🎬 **YouTube Channel:** Master in White Devil
 
