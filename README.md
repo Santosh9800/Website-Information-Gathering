@@ -71,9 +71,9 @@ python3 scanner.py
 (Screenshots after running the tool)
 
 
-🔰 Name      : Santosh Chhetri
-🎬 Channel   : Master in White Devil
-📍 Location  : India / Nepal / UAE
+🔰 Name      : Santosh Chhetri <br>
+🎬 Channel   : Master in White Devil <br>
+📍 Location  : India / Nepal / UAE <br>
 🛠 Focus     : Hacking Tools | Bug Bounty | Ethical Education
 
 
