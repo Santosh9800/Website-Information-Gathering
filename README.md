@@ -80,25 +80,25 @@ Here Screenshts also available and Use Also
 
 <div align="center">
 
-<img src="https://www.pngmart.com/files/23/Hacker-PNG-Isolated-Image.png" width="120"/>
+<img src="https://pngtree.com/so/black-hacker" width="120"/>
 ---
 <br>
 
 ```bash
-If you found this useful...
+If you found this useful...<br>
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 <br>
-+ Share this tool with fellow hackers
-+ Spread ethical hacking knowledge
++ Share this tool with fellow hackers<br>
++ Spread ethical hacking knowledge<br>
 - Never hack without permission 🔒
 
 <br>
 Stay connected, stay secure... and stay LEGIT. 🚀
 <br>
 
-Thanks for visiting and using this tool!
-If you found this useful...
+Thanks for visiting and using this tool!<br>
+If you found this useful...<br>
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 
 <br>
