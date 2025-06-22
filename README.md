@@ -68,8 +68,13 @@ sudo apt install nmap wafw00f
 python3 scanner.py
 ```
 # 📸 Screenshots
-(Screenshots after running the tool)
 
+(Screenshots![Screenshot From 2025-06-23 01-21-56](https://github.com/user-attachments/assets/5681fe80-5685-4f1b-a845-60b6c14e2a60)
+<br>
+![Screenshot From 2025-06-23 01-27-08](https://github.com/user-attachments/assets/5faf89ee-d0b9-4e1f-ba13-81760e0c680a)
+<br>
+![Screenshot From 2025-06-23 01-27-38](https://github.com/user-attachments/assets/315b7774-e830-4177-acb1-6c22f360a05e)
+<br><br>
 
 🔰 Name      : Santosh Chhetri <br>
 🎬 Channel   : Master in White Devil <br>
