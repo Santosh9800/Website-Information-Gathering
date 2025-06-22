@@ -66,3 +66,7 @@ sudo apt install nmap wafw00f
 
 #▶️ How to Use
 python3 scanner.py
+```
+# 📸 Screenshots
+(Screenshots after running the tool)
+
