@@ -63,3 +63,6 @@ pip install -r requirements.txt
 
 # Step 4: Make sure Nmap and wafw00f are installed
 sudo apt install nmap wafw00f
+
+#▶️ How to Use
+python3 scanner.py
