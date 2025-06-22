@@ -53,13 +53,13 @@ Make sure you're using **Linux (Kali, Parrot, Ubuntu)** or **Termux** for full f
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/website-info-scanner
+git clone https://github.com/Santosh9800/website-info-scanner.git
 
 # Step 2: Change directory
 cd website-info-scanner
 
 # Step 3: Install Python dependencies
-pip install -r requirements.txt
+sudo pip install builtwith --break-system-packages
 
 # Step 4: Make sure Nmap and wafw00f are installed
 sudo apt install nmap wafw00f
