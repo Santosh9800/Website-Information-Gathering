@@ -81,11 +81,13 @@ Here Screenshts also available and Use Also
 <div align="center">
 
 <img src="https://www.pngmart.com/files/23/Hacker-PNG-Isolated-Image.png" width="120"/>
-
+---
 <br>
+
 ```bash
 If you found this useful...
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
+```
 <br>
 + Share this tool with fellow hackers
 + Spread ethical hacking knowledge
