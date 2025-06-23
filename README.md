@@ -95,9 +95,6 @@ Stay connected, stay secure... and stay LEGIT. 🚀
 
 Thanks for visiting and using this tool!
 
-<br>
-
-Stay connected, stay secure... and stay LEGIT. 🚀
 <br> <br> </div>
 <br>
 🔰 Name      : Santosh Chhetri <br>
