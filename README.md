@@ -76,11 +76,8 @@ Here Screenshts also available and Use Also
 ![Screenshot From 2025-06-23 01-27-38](https://github.com/user-attachments/assets/315b7774-e830-4177-acb1-6c22f360a05e)
 <br><br>
 
----
 
 <div align="center">
----
-<br>
 
 ```bash
 If you found this useful... <br>
@@ -88,7 +85,7 @@ Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 </div>
 <br>
-+ Share this tool with fellow hackers<br>
+<div align="center"> + Share this tool with fellow hackers<br>
 + Spread ethical hacking knowledge<br>
 - Never hack without permission 🔒
 
@@ -103,7 +100,7 @@ Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 <br>
 
 Stay connected, stay secure... and stay LEGIT. 🚀
-<br>
+<br> </div>
 🔰 Name      : Santosh Chhetri <br>
 🎬 Channel   : Master in White Devil <br>
 📍 Location  : India / Nepal / UAE <br>
