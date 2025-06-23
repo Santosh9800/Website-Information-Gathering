@@ -88,6 +88,7 @@ Here Screenshts also available and Use Also
 If you found this useful...<br>
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
+</div>
 <br>
 + Share this tool with fellow hackers<br>
 + Spread ethical hacking knowledge<br>
