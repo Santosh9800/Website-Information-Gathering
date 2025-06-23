@@ -80,7 +80,7 @@ Here Screenshts also available and Use Also
 <div align="center">
 
 ```bash
-If you found this useful... <br>
+If you found this useful...
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 </div>
@@ -93,14 +93,13 @@ Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 Stay connected, stay secure... and stay LEGIT. 🚀
 <br>
 
-Thanks for visiting and using this tool!<br>
-If you found this useful...<br>
-Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
+Thanks for visiting and using this tool!
 
 <br>
 
 Stay connected, stay secure... and stay LEGIT. 🚀
-<br> </div>
+<br> <br> </div>
+<br>
 🔰 Name      : Santosh Chhetri <br>
 🎬 Channel   : Master in White Devil <br>
 📍 Location  : India / Nepal / UAE <br>
