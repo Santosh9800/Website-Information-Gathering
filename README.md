@@ -79,13 +79,11 @@ Here Screenshts also available and Use Also
 ---
 
 <div align="center">
-
-<img src="https://pngtree.com/so/black-hacker" width="120"/>
 ---
 <br>
 
 ```bash
-If you found this useful...<br>
+If you found this useful... <br>
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 </div>
