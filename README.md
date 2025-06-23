@@ -96,7 +96,8 @@ Stay connected, stay secure... and stay LEGIT. 🚀
 Thanks for visiting and using this tool!
 
 <br> <br> </div>
-``` 🔰 Name      : Santosh Chhetri <br>
+```
+🔰 Name      : Santosh Chhetri <br>
 🎬 Channel   : Master in White Devil <br>
 📍 Location  : India / Nepal / UAE <br>
 🛠 Focus     : Hacking Tools | Bug Bounty | Ethical Education
