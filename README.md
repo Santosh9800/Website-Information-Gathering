@@ -83,23 +83,17 @@ Here Screenshts also available and Usefull Also <br>
 If you found this useful...
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
-</div>
-<br>
-<div align="center"> + Share this tool with fellow hackers<br>
-+ Spread ethical hacking knowledge<br>
-- Never hack without permission 🔒
+---
 
-<br>
-Stay connected, stay secure... and stay LEGIT. 🚀
-<br>
+## 🙏 Thanks
 
-Thanks for visiting and using this tool!
+Thanks for visiting my GitHub repository! ❤️  
+Keep supporting me friends! 🚀  
+For more awesome tools, tutorials, and updates:
 
-<br> <br> </div>
-```
-🔰 Name      : Santosh Chhetri <br>
-🎬 Channel   : Master in White Devil <br>
-📍 Location  : India / Nepal / UAE <br>
-🛠 Focus     : Hacking Tools | Bug Bounty | Ethical Education
-```
+- 📢 **Join my Telegram Channel:** [Join Now](https://t.me/santosh45678)  
+- 🎥 **Subscribe my YouTube Channel:** [Master in White Devil](https://youtube.com/@mastersinwhitedevil)
 
+Stay tuned for more hacking tools, bug bounty scripts, and cybersecurity content! 🚀👾
+
+---
