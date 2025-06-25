@@ -77,14 +77,11 @@ Here Screenshts also available and Usefull Also <br>
 <br><br>
 
 
-<div align="center">
-
 ```bash
-If you found this useful...
+If you found this useful
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 ---
-</div>
 
 ## 🙏 Thanks
 
