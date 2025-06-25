@@ -84,6 +84,7 @@ If you found this useful...
 Don't forget to subscribe to 🔥 MASTER IN WHITE DEVIL 🔥
 ```
 ---
+</div>
 
 ## 🙏 Thanks
 
